@@ -1,0 +1,8 @@
+C:\Users\Aluno\source\repos\Frete\Frete\obj\Debug\net10.0\Frete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Frete\Frete\obj\Debug\net10.0\Frete.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Frete\Frete\obj\Debug\net10.0\Frete.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Frete\Frete\obj\Debug\net10.0\Frete.csproj.CoreCompileInputs.cache
+D:\portifolio - poo e djwi\poo\Frete\Frete\obj\Debug\net10.0\Frete.GeneratedMSBuildEditorConfig.editorconfig
+D:\portifolio - poo e djwi\poo\Frete\Frete\obj\Debug\net10.0\Frete.AssemblyInfoInputs.cache
+D:\portifolio - poo e djwi\poo\Frete\Frete\obj\Debug\net10.0\Frete.AssemblyInfo.cs
+D:\portifolio - poo e djwi\poo\Frete\Frete\obj\Debug\net10.0\Frete.csproj.CoreCompileInputs.cache
